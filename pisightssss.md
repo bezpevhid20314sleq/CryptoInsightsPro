@@ -1,4 +1,5 @@
 **Privacy Policy**
+
 This application belongs to the developer : bezpevhid20314sleq@gmail.com
 
 KarBez built the Crypto Insights Pro app as a Free app. This SERVICE is provided by KarBez at no cost and is intended for use as is.
